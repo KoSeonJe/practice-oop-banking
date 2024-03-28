@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.common.message.ProcessNumberMessageTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-28T03:51:50" hostname="goseonje-ui-MacBookAir.local" time="0.039">
+  <properties/>
+  <testcase name="number를 키로 가진 FinderMap을 이용해 RequestMessage를 반환한다." classname="org.example.common.message.ProcessNumberMessageTest" time="0.039"/>
+  <system-out><![CDATA[입금할 계좌와 금액을 입력해주세요.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
